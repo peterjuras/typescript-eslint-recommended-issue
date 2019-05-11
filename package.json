@@ -1,0 +1,16 @@
+{
+  "name": "typescript-eslint-recommended-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Peter Juras <me@peterjuras.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint index.ts"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.8.0",
+    "@typescript-eslint/parser": "^1.8.0",
+    "eslint": "^5.16.0",
+    "typescript": "^3.4.5"
+  }
+}
